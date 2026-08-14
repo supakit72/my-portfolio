@@ -5,7 +5,7 @@
 🔗 **Live Demo:** [https://smart-dorm-five.vercel.app](https://smart-dorm-five.vercel.app)
 📸 **ตัวอย่างหน้าจอระบบ (Screenshots):**
 
-![Screenshots Website Preview](Screenshot%202026-08-13212101.png)
+![Screenshots Website Preview](Screenshot.png)
 
 ---
 
